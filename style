@@ -18,9 +18,6 @@
 
 <!-- Add a colorful background to the about section with a fade-in animation -->
 <div style="background-color: #ecf0f1; padding: 10px; animation: fadein 2s;">
-  <h2>About Me</h2>
-  <p style="color: #2c3e50;">I am a passionate [Your Profession/Field] with a strong background in [Your Expertise/Area]. My goal is to [Your Career Goal or Mission]. I thrive on [Your Strengths or Skills], and I am always eager to learn and adapt to new challenges.</p>
-</div>
 
 <style>
   /* Define the fade-in animation */
@@ -38,13 +35,7 @@
 
 <!-- Add a colorful footer with your contact information and a rotating animation -->
 <div style="background-color: #3498db; color: #ffffff; padding: 10px; animation: rotate 2s linear infinite;">
-  <h2>Contact</h2>
-  <ul>
-    <li><strong>Email:</strong> [Your Email Address]</li>
-    <li><strong>LinkedIn:</strong> [Your LinkedIn Profile]</li>
-    <li><strong>GitHub:</strong> [Your GitHub Profile]</li>
-  </ul>
-</div>
+  
 
 <style>
   /* Define the rotate animation */
