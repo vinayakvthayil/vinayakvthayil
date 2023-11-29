@@ -15,8 +15,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Github Stats
 
-<p 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vinayakvthayil&show_icons=true&locale=en&theme=dark&hide_border=true" alt="vinayakvthayil" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayakvthayil&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="vinayakvthayil" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakvthayil&&theme=dark&hide_border=true" alt="vinayakvthayil" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayakvthayil&show_icons=true&locale=en&theme=blue-green" alt="vinayakvthayil" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakvthayil&theme=blue-green" alt="vinayakvthayil" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayakvthayil&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="vinayakvthayil" /></p>
