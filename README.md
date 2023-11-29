@@ -8,5 +8,7 @@
 <p align="auto">
     <img src="https://github-readme-stats.vercel.app/api?username=vinayakvthayil&show_icons=true&locale=en&theme=radical" alt="vinayakvthayil" />
     <img src="https://streak-stats.demolab.com?user=vinayakvthayil&theme=radical&date_format=j%20M%5B%20Y%5D" /><br><br>
+</p>
+<p align="center">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakvthayil&layout=compact&theme=radical"><br><br>
 </p>
