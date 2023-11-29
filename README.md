@@ -1,1 +1,4 @@
-# about
+- 👋 Hi, I’m Vinayak V Thayil
+- 👀 I’m interested in programming.
+- 🌱 "Highly motivated and enthusiastic Computer Science Engineer from kerala india, always eager to learn and collaborate effectively with others, as well as work efficiently on my own. Possessing a foundation in Python and C++, as well as a passion for effective leadership and project management.“
+- 📫 reach me at vinayakvthayil80@gmail.com
