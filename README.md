@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### About
 
-"Highly motivated and enthusiastic Computer Science Engineer from kerala india, always eager to learn and collaborate effectively with others, as well as work efficiently on 
- my own. Possessing a foundation in Python and C++, as well as a passion for effective leadership and project management.“
+"Highly motivated and enthusiastic Computer Science Engineer, always eager to learn and collaborate effectively with others, as well as work efficiently on my own. Possessing a strong foundation in Full Stack Development and Python as well as a passion for effective leadership and project management."
 
 * 🌍  I'm based in Kerala, India
 * ✉️  You can contact me at vinayakvthayil80@gmail.com
