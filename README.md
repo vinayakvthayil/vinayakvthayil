@@ -15,7 +15,7 @@ Enthusiastic and dedicated Computer Science Engineer, always eager to learn and 
 
 ### Current Ongoing Project
 
-<p align="Left"><li>Shopping List App - Using Java - Android_Studio</li>
+<p align="Left"><li>Shopping List App - Using Java and Android Studio</li>
 <p align="Left"><li>Health Tracker Tool - Using Angular and java</li>
 
 ### Github Stats
