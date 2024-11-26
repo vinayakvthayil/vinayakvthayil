@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Enthusiastic and dedicated Computer Science Engineer, always eager to learn and collaborate effectively with others and work efficiently on my own. Possessing a strong passion for coding and web development, good at teamwork and quick learning to excel in both technical and collaborative environments
 
 * 🌍  I'm based in Kerala, India
-* ✉️  You can contact me at vinayakvthayil80@gmail.com
+* ✉️  You can contact me at vinayakvthayil70@gmail.com
 
 ### Skills
 
