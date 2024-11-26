@@ -16,5 +16,5 @@ Enthusiastic and dedicated Computer Science Engineer, always eager to learn and 
 ### Github Stats
 
 <p align="center"> &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vinayakvthayil&show_icons=true&locale=en&theme=blue-green" alt="vinayakvthayil" /></p>
-<p align="center"><img " src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakvthayil&theme=blue-green" alt="vinayakvthayil" /></p>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayakvthayil&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="vinayakvthayil" /></p>
+<p align="center"><img "src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakvthayil&theme=blue-green" alt="vinayakvthayil"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayakvthayil&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="vinayakvthayil" /></p>
