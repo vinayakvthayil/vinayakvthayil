@@ -23,3 +23,4 @@ Enthusiastic and dedicated Computer Science Engineer, always eager to learn and 
 </div>
 
 
+![Profile Views](https://img.shields.io/badge/Profile%20views-100-blue)
