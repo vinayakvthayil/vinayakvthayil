@@ -22,5 +22,6 @@ Enthusiastic and dedicated Computer Science Engineer, always eager to learn and 
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakvthayil&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=VinayakVThayil&color=brightgreen)
 
-![Profile Views](https://img.shields.io/badge/Profile%20views-100-blue)
+
