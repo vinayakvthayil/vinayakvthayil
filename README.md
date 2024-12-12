@@ -16,7 +16,6 @@ Enthusiastic and dedicated Computer Science Engineer, always eager to learn and 
 ### GitHub Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=vinayakvthayil&theme=juicyfresh&no-bg=true" alt="GitHub Profile Trophy" />
 
-
 ### Github Stats
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=vinayakvthayil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
