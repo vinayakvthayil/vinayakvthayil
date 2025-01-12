@@ -7,6 +7,7 @@ Enthusiastic and dedicated Computer Science Engineer, always eager to learn and 
 
 * 🌍  I'm based in Kerala, India
 * ✉️  You can contact me at vinayakvthayil70@gmail.com
+* 🚀  https://portfoliovinayak.vercel.app/
 
 ### Skills
 
