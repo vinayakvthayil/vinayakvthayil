@@ -27,7 +27,7 @@ Enthusiastic and dedicated Computer Science Engineer, always eager to learn and 
   <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakvthayil&theme=vue-dark&hide_border=true" />
 </div>
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakvthayil&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakvthayil&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /> 
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VinayakVThayil&color=brightgreen)
