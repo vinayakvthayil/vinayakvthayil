@@ -6,6 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Enthusiastic and dedicated Computer Science Engineer, always eager to learn and collaborate effectively with others and work efficiently on my own. Possessing a strong passion for coding, web development and app development, good at teamwork and quick learning to excel in both technical and collaborative environments
 
 * 🌍  I'm based in Thodupuzha, Idukki, Kerala, India
+* 🧳  **Currently Working:** Junior Software Engineer at [TouchQ Software Solutions Pvt. Ltd.](https://www.touchqsolutions.com)
 * ✉️  You can contact me at vinayakvthayil80@gmail.com
 * 🚀  **Portfolio:** https://vinayakvthayil.vercel.app/
 * 🔗  **Linktree:** https://linktr.ee/vinayakvthayil
