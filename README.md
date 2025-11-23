@@ -2,8 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 ### About
-
-Enthusiastic and dedicated Computer Science Engineer, always eager to learn and collaborate effectively with others and work efficiently on my own. Possessing a strong passion for coding, web development and app development, good at teamwork and quick learning to excel in both technical and collaborative environments
+Enthusiastic and dedicated Computer Science Engineer with 5 months of industry experience, focused on technology and development. I work effectively in both collaborative and independent work environments, demonstrating excellent teamwork and a quick learning ability to adapt and excel in technical challenges. Always eager to expand my knowledge, I aim to contribute effectively to projects while continuously improving my skills.
 
 * 🌍  I'm based in Thodupuzha, Idukki, Kerala, India
 * 💼  **Currently Working:** Junior Software Engineer at [TouchQ Software Solutions Pvt. Ltd.](https://www.touchqsolutions.com)
