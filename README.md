@@ -6,6 +6,7 @@ Enthusiastic and dedicated Computer Science Engineer with 5 months of industry e
 
 * 🌍  I'm based in Thodupuzha, Idukki, Kerala, India
 * ✉️  You can contact me at vinayakvthayil80@gmail.com
+* 🚀 **Portfolio:** https://vinayakvt.vercel.app/
 * 🔗  **Linktree:** https://linktr.ee/vinayakvthayil
 
 ### Skills
