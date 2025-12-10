@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 ### About
-Enthusiastic and dedicated Computer Science Engineer with 5 months of industry experience in the IT field. I work effectively in both collaborative and independent work environments, demonstrating excellent teamwork and a quick learning ability to adapt and excel in technical challenges. Always eager to expand my knowledge, I aim to contribute effectively to projects while continuously improving my skills.
+Enthusiastic and dedicated Computer Science Engineer with hands-on industry experience in the IT field. I work effectively in both collaborative and independent work environments, demonstrating excellent teamwork and a quick learning ability to adapt and excel in technical challenges. Always eager to expand my knowledge, I aim to contribute effectively to projects while continuously improving my skills.
 
 * 🌍  I'm based in Thodupuzha, Idukki, Kerala, India
 * ✉️  You can contact me at vinayakvthayil80@gmail.com
